@@ -1,6 +1,6 @@
 ### Hola!
 
-I'm Leti, a FOMO-driven developer from Uruguay, remotely working for the US 🌎  
+I'm Leti, a Software Engineer from Uruguay, remotely working for the US 🌎  
 
 Proud mom of 2 cats, who might secretly be plotting my downfall or just playing hard to get. 🐈
 
