@@ -12,6 +12,10 @@ Ruby on Rails is my ultimate jam, and along with agile teams in SaaS companies, 
 
 I love fitness, mindfulness, minimalism, interior design, and going to bed before 10pm. But honestly, I sometimes wish I was doing more to make the world a better place. 
 
+---
+
+I enjoy writing. Follow me on [LinkedIn](https://www.linkedin.com/in/leticia-esperon/), [Medium](https://medium.com/@esperonleticia), [DEV](https://dev.to/letiesperon) and [StackOverflow](https://stackoverflow.com/users/6342826/leticia-esperon). ✍🏼
+
 <!--
 
 ---
