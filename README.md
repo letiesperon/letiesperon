@@ -4,9 +4,9 @@ I'm Leti, a Software Engineer from Uruguay, remotely working for the US 🌎
 
 Proud mom of 2 cats, who might secretly be plotting my downfall or just playing hard to get. 🐈
 
-Software engineering has been my antidote to boredom — I've been hooked ever since I started. Passionate about constant improvement in every aspect: teams, processes, products, people. Having forged my path in both technical and management arenas, I'm tremendously interested in the realm of psychology, because let's face it, it's what drives it all. 💡
+Software engineering has been my antidote to boredom — I've been hooked ever since I started. Passionate about constant improvement in every aspect: teams, processes, products, people. Having forged my path in both technical and management arenas, I'm tremendously interested in the realm of psychology, because let's face it, it's what drives it all. 
 
-I teach software architecture at ORT University, and my slides are filled with self-made memes that I should probably have copyrighted. 👩🏼‍🏫
+I teach software architecture at ORT University, and my slides are filled with self-made memes that I should probably have copyrighted. 
 
 Ruby on Rails is my ultimate jam, and along with agile teams in SaaS companies, they are the bread and butter of my everyday. 💞
 
